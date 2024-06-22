@@ -9,7 +9,7 @@ Download modelzoo from this [link](https://github.com/STMicroelectronics/stm32ai
 ### Step 1
 Open this [link](https://my.st.com/cas/login?service=https://my.st.com/cas-idpwebsso/login%3Fresume%3D%2Fas%2FkVO5J%2Fresume%2Fas%2Fauthorization.ping%26spentity%3Dnull) and login. 
 ### Step 2
-[STM32X-Cube-AI](images/X-Cube-AI_login_page)
+![STM32X-Cube-AI!](images/X-Cube-AI_login_page.png)
 Upload the .tflite model and click start.
 ### Step 3
 Keep all the default unless want to change optimization option. 
