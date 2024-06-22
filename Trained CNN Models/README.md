@@ -1,0 +1,2 @@
+# Trained Model
+This section includes all the trained CNN models using the rice leaf dataset. The models are in .tflite format, and they need to be converted through STM32Cube.AI before deployment to the board.
