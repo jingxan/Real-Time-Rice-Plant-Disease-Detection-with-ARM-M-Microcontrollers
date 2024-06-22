@@ -1,5 +1,5 @@
 # Real-Time-Rice-Plant-Disease-Detection-with-ARM-M-Microcontrollers
-The deployment.zip contains all the file needed for deployment on STM32H747i-Disco board. 
+The deployment.zip package contains all the necessary files for deploying a pre-trained model on the STM32H747i-Disco board. This package facilitates the deployment of pre-trained models on the STM32H747i-Disco board. Users have the option to either train their own models or utilize the pre-trained models available in the "Trained CNN Models" folder. Once the trained model is obtained, users can proceed to the following step.
 
 ## Model Conversion using STM32 X-Cube-AI
 ### Step 1
