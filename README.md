@@ -15,6 +15,8 @@ Upload the .tflite model and click start.
 ### Step 3
 Keep all the default unless want to change optimization option. 
 ### Step 4
+![Download C Code Files](https://github.com/jingxan/Real-Time-Rice-Plant-Disease-Detection-with-ARM-M-Microcontrollers/blob/main/Images/Download_C_Code.png)
+
 Proceed until the last section, search the board used, and download the C Code
 
 ## Deployment
@@ -25,6 +27,8 @@ Within deployment.zip/application folder there is a network folder. Copy the C S
 ### Step 3
 Open the STM32H747i-Disco/STM32CubeIDE folder, click the .project application.
 ### Step 4
+![No Errors](https://github.com/jingxan/Real-Time-Rice-Plant-Disease-Detection-with-ARM-M-Microcontrollers/blob/main/Images/Deployment_No_Error.png))
+
 Choose the CM7 and build the project. It should show no errors.
 ### Step 5
 Connect the hardware to the laptop, and then click the debug to flash the application to the board then done.
