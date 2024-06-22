@@ -29,5 +29,8 @@ Choose the CM7 and build the project. It should show no errors.
 ### Step 5
 Connect the hardware to the laptop, and then click the debug to flash the application to the board then done.
 
+## Dataset
+The dataset used is from this [link](https://data.mendeley.com/datasets/fwcj7stb8r/1)
+
 
 
